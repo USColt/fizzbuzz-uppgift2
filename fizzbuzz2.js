@@ -31,7 +31,7 @@ function fizzBuzz(input) {
     }
   }
   
-  // Testa med olika typer av inmatning
+  // Testar med olika typer av inmatning
   fizzBuzz("1453");   // Sträng som konverteras till ett nummer
   fizzBuzz(75.5);     // Decimaltal som avrundas till närmaste heltal
   fizzBuzz("109");    // Sträng som kan omvandlas direkt till ett heltal
